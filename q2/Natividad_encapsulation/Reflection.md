@@ -1,0 +1,1 @@
+Using @property makes my code easier to read because I can access and modify attributes like regular variables instead of calling traditional getter and setter methods. It also allows me to validate values before changing them, helping protect the data. Overall, it makes my code cleaner, simpler, and easier to understand.
